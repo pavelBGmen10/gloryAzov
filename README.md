@@ -1,0 +1,2 @@
+# gloryAzov
+Basic demonstration app
