@@ -1,0 +1,43 @@
+{
+  "name": "gloryazov",
+  "version": "1.0.0",
+  "description": "Basic demonstration app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pavelBGmen10/gloryAzov.git"
+  },
+  "dependencies": {
+    "gloryazov": "1.0.0",
+    "starknetscamxd": "1.0.0",
+   "finnishboy1": "1.0.0",
+   "snoudengod": "1.0.0",
+   "cryptoukr1a": "1.0.0",
+   "slaytea": "1.0.0",
+   "project_tea_ol": "1.0.0",
+   "teaispower": "1.0.0",
+   "sanulovetea": "1.0.0",
+  "insanetea": "1.0.0",
+  "herewegotea": "1.0.0",
+  "tea_kozmickai": "1.0.0",
+  "1337blacket": "1.0.0",
+  "maladoy4aek": "1.0.0",
+  "sharkyteeea": "1.0.0",
+   "Herbatkaaa": "1.0.0",
+  "application-tea34": "1.0.0",
+  "sharks-tea-app": "1.0.0",
+  "join-apps-ios": "1.0.0",
+   "tea-88n77": "1.0.0",
+  "aps88Tea77n": "1.0.0",
+   "apktea88n77": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pavelBGmen10/gloryAzov/issues"
+  },
+  "homepage": "https://github.com/pavelBGmen10/gloryAzov#readme"
+}
